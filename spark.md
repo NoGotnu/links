@@ -8,3 +8,4 @@
 * https://medium.com/hackernoon/how-to-log-in-apache-spark-f4204fad78a - Logging
 * https://mrpowers.medium.com/testing-spark-applications-8c590d3215fa - Testing
 * https://mungingdata.com/apache-spark/building-jar-sbt/ - Fat JAR's
+* https://github.com/MrPowers/spark-style-guide - Style Guide
