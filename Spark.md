@@ -12,3 +12,4 @@
 * https://mungingdata.com/apache-spark/python-pyspark-scala-which-better/
 * https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf - про колоночные форматы
 * https://stackoverflow.com/questions/43568132/dremel-repetition-and-definition-level - то же
+* https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
