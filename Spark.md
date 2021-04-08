@@ -7,6 +7,7 @@
 * http://www.openkb.info/2019/04/what-is-difference-between.html - What is the difference between mapreduce.fileoutputcommitter.algorithm.version=1 and 2
 * https://mungingdata.com/apache-spark/partitionby/ - partitionBy
 * https://medium.com/hackernoon/how-to-log-in-apache-spark-f4204fad78a - Logging
+* https://medium.com/hackernoon/how-to-log-in-apache-spark-a-functional-approach-e48ffbbd935b - Logging
 * https://mrpowers.medium.com/testing-spark-applications-8c590d3215fa - Testing
 * https://mungingdata.com/apache-spark/building-jar-sbt/ - Fat JAR's
 * https://mungingdata.com/apache-spark/python-pyspark-scala-which-better/
