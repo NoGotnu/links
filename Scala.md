@@ -6,3 +6,4 @@
 * https://learning.oreilly.com/videos/strata-hadoop/9781491944660/9781491944660-video282647
 * https://twitter.github.io/effectivescala/index-ru.html
 * http://matt.might.net/articles/learning-scala-in-small-bites/
+* https://regex101.com/
