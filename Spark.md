@@ -15,4 +15,4 @@
 * https://stackoverflow.com/questions/43568132/dremel-repetition-and-definition-level - то же
 * https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
 * https://books.japila.pl/
-
+* https://www.slideshare.net/QuentinAmbard/jvm-garbage-collection-tuning-for-low-latencies-application - GC1
